@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ProfessorAyush/textutils--withoutrouter/static/css/main.e6c13ad2.css",
-    "main.js": "/ProfessorAyush/textutils--withoutrouter/static/js/main.4736f82f.js",
-    "static/js/453.02b6ed6f.chunk.js": "/ProfessorAyush/textutils--withoutrouter/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/ProfessorAyush/textutils--withoutrouter/index.html",
-    "main.e6c13ad2.css.map": "/ProfessorAyush/textutils--withoutrouter/static/css/main.e6c13ad2.css.map",
-    "main.4736f82f.js.map": "/ProfessorAyush/textutils--withoutrouter/static/js/main.4736f82f.js.map",
-    "453.02b6ed6f.chunk.js.map": "/ProfessorAyush/textutils--withoutrouter/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/textutils--withoutrouter/static/css/main.e6c13ad2.css",
+    "main.js": "/textutils--withoutrouter/static/js/main.71996625.js",
+    "static/js/453.02b6ed6f.chunk.js": "/textutils--withoutrouter/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/textutils--withoutrouter/index.html",
+    "main.e6c13ad2.css.map": "/textutils--withoutrouter/static/css/main.e6c13ad2.css.map",
+    "main.71996625.js.map": "/textutils--withoutrouter/static/js/main.71996625.js.map",
+    "453.02b6ed6f.chunk.js.map": "/textutils--withoutrouter/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4736f82f.js"
+    "static/js/main.71996625.js"
   ]
 }
