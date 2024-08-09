@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProfessorAyush/textutils--withoutrouter/static/css/main.e6c13ad2.css",
+    "main.js": "/ProfessorAyush/textutils--withoutrouter/static/js/main.4736f82f.js",
+    "static/js/453.02b6ed6f.chunk.js": "/ProfessorAyush/textutils--withoutrouter/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/ProfessorAyush/textutils--withoutrouter/index.html",
+    "main.e6c13ad2.css.map": "/ProfessorAyush/textutils--withoutrouter/static/css/main.e6c13ad2.css.map",
+    "main.4736f82f.js.map": "/ProfessorAyush/textutils--withoutrouter/static/js/main.4736f82f.js.map",
+    "453.02b6ed6f.chunk.js.map": "/ProfessorAyush/textutils--withoutrouter/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4736f82f.js"
+  ]
+}
